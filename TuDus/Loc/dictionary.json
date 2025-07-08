@@ -1,0 +1,14 @@
+{
+  "pl-PL": {
+    "AppTitle": "Moje TuDus",
+    "AddNewTask": "Dodaj nowe zadanie",
+    "TagPrefixHint": "Wprowadź tag",
+    "PriorityPrefixHint": "Wprowadź priorytet"
+  },
+  "en-US": {
+    "AppTitle": "My TuDus",
+    "AddNewTask": "Add new task",
+    "TagPrefixHint": "Enter tag",
+    "PriorityPrefixHint": "Enter priority"
+  }
+}
